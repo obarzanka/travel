@@ -8,7 +8,7 @@
 _obwarzanek, oscypek, kielbasa, and zapiekana_
 
 * ~~[Ancora](http://www.ancora-restaurant.com)~~
-* ~~[copernicus](http://www.likushoteleirestauracje.pl/pl/Restauracja_Copernicus)~~
+* [copernicus](https://copernicus.hotel.com.pl/hotel-copernicus/copernicus-restaurant)~~
 * ~~[Jarema](http://www.jarema.pl)~~
 * [Oberza](http://www.oberza.pl)
 * [Pod Baranem](http://podbaranem.com)
